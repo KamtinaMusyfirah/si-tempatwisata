@@ -1,0 +1,80 @@
+/*Carousel*/
+.carousel img{
+    height: 570px;
+}
+/*End Carousel*/
+
+/*Kategori*/
+.kategori{
+    display: flex;
+}
+.kategori img{
+    width: 80px;
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
+.eat1 img{
+    margin-left: 450px;
+}
+.play1 img{
+    margin-left: 30px;
+}
+.relax1 img{
+    margin-left: 28px;
+}
+.trip1 img{
+    margin-left: 32px;
+}
+.namakategori{
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: -60px;
+}
+.eat1 a{
+    margin-left: 480px;
+}
+.play1 a{
+    margin-left: 78px;
+}
+.relax1 a{
+    margin-left: 65px;
+}
+.trip1 a{
+    margin-left: 73px;
+}
+/*End Kategori*/
+
+.row{
+    margin-top: 30px;
+}
+.judul{
+    border-color: white;
+    margin-right: 1000px;
+    width: 600px;
+}
+.konten .atas{
+    display: flex;
+    margin-top: 10px;
+}
+.konten .bawah{
+    display: flex;
+    margin-top: -10px;
+}
+.atas .btn{
+    height: 30px;
+    margin-left: 255px;
+}
+.bawah .btn{
+    height: 30px;
+    margin-left: 352px;
+}
+.konten img{
+    width: 600px;
+    height: 200px;
+}
+.garis{
+    margin-right: 300px;
+    width: 600px;
+    border: solid;
+}
+

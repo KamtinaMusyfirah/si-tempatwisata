@@ -1,0 +1,140 @@
+@font-face{
+    font-family: 'bertilda';
+    src: url('font/bertilda/bertilda.ttf');
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+/*Carousel*/
+.carousel img{
+    height: 570px;
+}
+/*End Carousel*/
+
+/*Kategori*/
+.kategori{
+    display: flex;
+}
+.kategori img{
+    width: 80px;
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
+.eat1 img{
+    margin-left: 450px;
+}
+.play1 img{
+    margin-left: 30px;
+}
+.relax1 img{
+    margin-left: 28px;
+}
+.trip1 img{
+    margin-left: 32px;
+}
+.namakategori{
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: -60px;
+}
+.eat1 a{
+    margin-left: 480px;
+}
+.play1 a{
+    margin-left: 78px;
+}
+.relax1 a{
+    margin-left: 65px;
+}
+.trip1 a{
+    margin-left: 73px;
+}
+/*End Kategori*/
+
+/*View*/
+.view img{
+    margin-top: 50px;
+    width: 500px;
+    height: 200px;
+}
+.view .more{
+    display: flex;
+    margin-top: -10px;
+}
+.view .more a{
+    margin-left: 230px;
+    height: 30px;
+}
+hr{
+    margin-top: -5px;
+    width: 500px;
+    margin-right: 50px;
+}
+/*End View*/
+
+.about{
+    text-align: center;
+    background-color: #cff5ff;
+    margin-top: 50px;
+}
+.about h1{
+    font-family: 'bertilda';
+    padding-top: 20px;
+    font-size: 50px;
+}
+.row{
+    margin-top: 30px;
+}
+.judul{
+    border-color: black;
+    margin-right: 1000px;
+    width: 600px;
+}
+.content .descAtas{
+    display: flex;
+    margin-top: 10px;
+}
+.content .descBawah{
+    display: flex;
+    margin-top: -10px;
+}
+.descAtas .btn{
+    height: 30px;
+    margin-left: 258px;
+}
+.descBawah .btn{
+    height: 30px;
+    margin-left: 348px;
+}
+.content img{
+    width: 600px;
+    height: 300px;
+}
+.garis{
+    margin-right: 300px;
+    width: 595px;
+    border: solid;
+}
+.medsos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.medsos a{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+    margin-top: -5px;
+    background-color:  #cff5ff;
+    margin-right: 200px;
+    margin-left: 270px;
+}
+.footer .singgahki{
+    font-family: 'bertilda';
+    font-size: 30px;
+}
